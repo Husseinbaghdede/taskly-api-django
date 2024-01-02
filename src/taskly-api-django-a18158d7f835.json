@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "taskly-api-django",
+  "private_key_id": "a18158d7f835f31bed85e3e2933e3e3800708330",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCRYsY15M3rFFNx\nUBresr0uy/yOkJE1hhsfB4z0N3YoDkog6q77a/UvxA12F7CGVm5O708ew3Taz7/6\nrH6/DW52SBWyhfVdMwgZej0PFq99J0i6v4CDIYb59GqajzPBL5luE3LemMUGzdq5\nLUNl4OVAF5MU+I4PG9ICIrEImuD6XRABs71hBSCFqhI0uYWq8qfUgipE4sohOCvs\nAalsNk4yWKtizlQz63KsDBasXNCenE1EjqFhQrEM4K+SeMKhrCvT08ap6pw+H2wX\nN57/a58HvG0J5LjOSXmvDJHfONUCt0AENBQZLUqepW0Vnd03OlpYQVmawhHcp5Fq\nYrzkCB2pAgMBAAECggEABeCFjS+s4EwfzGSV1XtJuP7PfI7dA9oiNgim2sd0LA3Z\n0sdR4AF+9ZmaBrRR8zhCuMelPePeUSsVQmOfMwdut/LVh7QxFT2nHeqKVdYPrYI9\nRylPH13nWCrYdVuFFtHfBKteGR/5VPtU1Gf/QbrL4aGiVTZv/a3c+S+gUu352r0B\nNfL+M1etNAEUe7S9iwBcsT5nKeJDCLDNNQ6Ns1F+gCBqxWu0Bx2Dsjyixe/s7Kaj\noay/lw5qzqvN1RgiUYJsq54B7+t1+bMyuokDg8t7GblskBwduDOlUnepYZE/zVrZ\nIFbPCuu0PcQqpUxwlepDRgYg5eulbd1sM/xqLw/7pQKBgQDLyLHuZcuiwOypaoxt\ns3QjT8RFWrBazm+9yjLqc/+EOYpGIyJZKKWTZa/OK0azo6FyB9lpTHKYk3wPEbDg\nt6wubv9sxXetjqYVPMUpNdvQogXL1zsMspwjREkgjLTZog3bTWCVhczw4y6NXFtA\nmfoHpLqa+fjHkPtuuFzT5YZTZQKBgQC2o20zFTrvtAssqFVpvdzoVAfNQsRCWJ7v\n335S8sirz7KZirVVrWp3GzsdFe1rtAW5aPn+rVgqV6h2MD3zMnlXVEnTPnJQfBkH\ncsM9J+X2hxjaA4N+zkOxex6tVRBNjWMrJvkMC66z5Fkk6jhCX/QWR3Qy8Wuxfx5f\nAIZEpqc29QKBgH4TYpHdhMjilwiRlOPh3H5kQUevPeBQS62dxTZsIa9KchPGdN+4\nWAgDJ2tkNs+48o877/RHibZ/uIcSKN4+hFYN8hT3bn1//ZyyBkDiw2Ymd3OPa0cF\n0be37Y4nv1POAMim7JRVPV/jDdADTamAGcJU1eY/tPyy4/uyMCwgmqRJAoGAHltJ\nkj0MH71wQgr0r2+0YRVeepqHXnO2by5Zo9XgztXl3Kl2fHgngwaOq8XyQX2Zmfi9\n3LvZNKh/Qq3ADkUsb/x9jNQLUh9eVaOYmfigu3o3Aj2lRJVqIPzS24KRBCLlAc4n\nhP4IGrRwsLcRhM7IFk/oG3OPL+BuHuJKbuy4TGUCgYEAwX9uOmZsB3x7f7DB/Pu2\nRQn0A+VHKop+90cPbDFFtXkJmFb6ibFzA14rz/mpb9HJEEEjOA46jYBWb2f40MtX\ndK9x6kjgojHyupsmYxssbkuG4jLICc2d4QHhh76t6bCEBPkYi33gBA8UtV9K6TG+\nlBD/+ltvSpMIDSqbvI0pQFE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "gcs-account-taskly-app@taskly-api-django.iam.gserviceaccount.com",
+  "client_id": "100365110321004711694",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/gcs-account-taskly-app%40taskly-api-django.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
