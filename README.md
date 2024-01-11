@@ -1,1 +1,1 @@
-Taskly api related to houses where users can create a house delete a house and each house has list of tasks where each task has specific id and also attachments to them which they are saved on google cloud and we can complete an a task and etc.
+A RESTful API built with Django and Python, House-taskly enables users to securely manage house-related tasks through JWT authorization. Features include creating and deleting houses, creating detailed task lists with unique IDs and Google Cloud storage for attachments, marking tasks as completed, and further functionalities.
